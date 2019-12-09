@@ -30,7 +30,7 @@ twitter_username: zakiindra_
 github_username:  zakiindra
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
